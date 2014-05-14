@@ -1,0 +1,23 @@
+Many thanks for your recent application.
+
+We are interested in speaking further - what is your availability like next week (please give multiple options) and how early could you start if you were successful in the interview process?
+
+As part of the FAC interview process we would like you to prepare an answer to the following software solution questions. We will then discuss this as part of the interview process.
+
+The client has given you a brief on the type of application they are looking to develop. You must decide what languages, technologies, libraries etc you must use in order to develop it.
+
+Interview Task 1
+
+A collaborative online map that enables a user to identify derelict sites/areas by point/polygon placement which can be supplemented with multi-media attribution (text/image uploads). These 'points' are written to and called from a database. This application will also feature an export utility.
+
+http://stackoverflow.com/questions/8019302/google-maps-api-user-can-select-area
+
+Interview Task 2
+
+Development of an application to geospatially analyse twitter statistics.
+
+Interview Task 3
+
+Calendar-timeline/mapping application allowing users to select dates, or periods and visualise all database entries relating to that period on a map or graphical display.
+
+I look forward to hearing from.
